@@ -384,26 +384,6 @@
             }
           ],
           "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.PhiThue.SignaturevalidCustomer",
-          "FieldName": "Signature valid Customer",
-          "IsMultiValue": false,
-          "Type": "Boolean",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#7cb6ef"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "v"
-            }
-          ],
-          "RuleSet": null
         }
       ]
     },
@@ -499,126 +479,6 @@
           "RuleSet": null
         },
         {
-          "FieldId": "NoGroup.NoCategory.BenhVien.NameIssued",
-          "FieldName": "Name Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#d2d550"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "m"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BenhVien.TaxCodeIssued",
-          "FieldName": "Tax Code Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#5cd483"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "x"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BenhVien.AddressIssued",
-          "FieldName": "Address Issued",
-          "IsMultiValue": false,
-          "Type": "Address",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#279fdb"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "w"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BenhVien.AccountIssued",
-          "FieldName": "Account Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#cc91cb"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "c"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BenhVien.BankIssued",
-          "FieldName": "Bank Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#c58699"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "k"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BenhVien.PhoneIssued",
-          "FieldName": "Phone Issued",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#aebaa8"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "h"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
           "FieldId": "NoGroup.NoCategory.BenhVien.NameCustomer",
           "FieldName": "Name Customer",
           "IsMultiValue": false,
@@ -634,26 +494,6 @@
             {
               "Key": "Hotkey",
               "Value": "y"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BenhVien.PatientCode",
-          "FieldName": "Patient Code",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#664c52"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "g"
             }
           ],
           "RuleSet": null
@@ -891,126 +731,6 @@
             {
               "Key": "Hotkey",
               "Value": "a"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BanHang.NameIssued",
-          "FieldName": "Name Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#d646cf"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "m"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BanHang.TaxcodeIssued",
-          "FieldName": "Tax code Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#9c93d8"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "x"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BanHang.AddressIssued",
-          "FieldName": "Address Issued",
-          "IsMultiValue": false,
-          "Type": "Address",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#3ddb77"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "w"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BanHang.AccountNoIssued",
-          "FieldName": "Account No. Issued",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#3277c3"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "l"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BanHang.BankIssued",
-          "FieldName": "Bank Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#e2357a"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "k"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.BanHang.PhoneIssued",
-          "FieldName": "Phone Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#f5dd38"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "h"
             }
           ],
           "RuleSet": null
@@ -1269,86 +989,6 @@
           "RuleSet": null
         },
         {
-          "FieldId": "NoGroup.NoCategory.VeSinh.NameIssued",
-          "FieldName": "Name Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#fa2eaa"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "m"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.VeSinh.TaxcodeIssued",
-          "FieldName": "Tax code Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#ca6bc6"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "x"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.VeSinh.AddressIssued",
-          "FieldName": "Address Issued",
-          "IsMultiValue": false,
-          "Type": "Address",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#3ddb77"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "w"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.VeSinh.IDCustomer",
-          "FieldName": "ID Customer",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#e9dc5c"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "c"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
           "FieldId": "NoGroup.NoCategory.VeSinh.NameCustomer",
           "FieldName": "Name Customer",
           "IsMultiValue": false,
@@ -1389,8 +1029,8 @@
           "RuleSet": null
         },
         {
-          "FieldId": "NoGroup.NoCategory.VeSinh.PaymentTotal",
-          "FieldName": "Payment Total",
+          "FieldId": "NoGroup.NoCategory.VeSinh.Taxcode",
+          "FieldName": "Tax code",
           "IsMultiValue": false,
           "Type": "Number",
           "DeriveFieldsFormat": "",
@@ -1399,11 +1039,11 @@
           "Metadata": [
             {
               "Key": "Color",
-              "Value": "#7e2eff"
+              "Value": "#9c59f8"
             },
             {
               "Key": "Hotkey",
-              "Value": "l"
+              "Value": "x"
             }
           ],
           "RuleSet": null
@@ -1424,6 +1064,26 @@
             {
               "Key": "Hotkey",
               "Value": "h"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.VeSinh.PaymentTotal",
+          "FieldName": "Payment Total",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#7e2eff"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "l"
             }
           ],
           "RuleSet": null
@@ -1542,126 +1202,6 @@
           "RuleSet": null
         },
         {
-          "FieldId": "NoGroup.NoCategory.TruongHoc.NameIssued",
-          "FieldName": "Name Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#525afc"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "m"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.TruongHoc.TaxcodeIssued",
-          "FieldName": "Tax code Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#5522cf"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "x"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.TruongHoc.AddressIssued",
-          "FieldName": "Address Issued",
-          "IsMultiValue": false,
-          "Type": "Address",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#d475b6"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "w"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.TruongHoc.AccountNoIssued",
-          "FieldName": "Account No. Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#806ae6"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "c"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.TruongHoc.BankIssued",
-          "FieldName": "Bank Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#4a5570"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "k"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.TruongHoc.PhoneIssued",
-          "FieldName": "Phone Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#d9738f"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "h"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
           "FieldId": "NoGroup.NoCategory.TruongHoc.NameCustomer",
           "FieldName": "Name Customer",
           "IsMultiValue": false,
@@ -1682,26 +1222,6 @@
           "RuleSet": null
         },
         {
-          "FieldId": "NoGroup.NoCategory.TruongHoc.StudentID",
-          "FieldName": "Student ID",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#99aa38"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "g"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
           "FieldId": "NoGroup.NoCategory.TruongHoc.TaxCodeCustomer",
           "FieldName": "Tax Code Customer",
           "IsMultiValue": false,
@@ -1717,46 +1237,6 @@
             {
               "Key": "Hotkey",
               "Value": "j"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.TruongHoc.AccountNoCustomer",
-          "FieldName": "Account No. Customer",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#1576af"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "l"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.TruongHoc.BankCustomer",
-          "FieldName": "Bank Customer",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#b29760"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "z"
             }
           ],
           "RuleSet": null
@@ -1930,66 +1410,6 @@
             {
               "Key": "Hotkey",
               "Value": "a"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.Dien.NameIssued",
-          "FieldName": "Name Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#ea57ba"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "m"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.Dien.TaxCodeIssued",
-          "FieldName": "Tax Code Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#9922cf"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "x"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.Dien.IDCustomer",
-          "FieldName": "ID Customer",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#d222d4"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "c"
             }
           ],
           "RuleSet": null
@@ -2228,126 +1648,6 @@
           "RuleSet": null
         },
         {
-          "FieldId": "NoGroup.NoCategory.Nuoc.NameIssued",
-          "FieldName": "Name Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#ed00c6"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "m"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.Nuoc.TaxcodeIssued",
-          "FieldName": "Tax code Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#ca89b4"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "x"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.Nuoc.AddressIssued",
-          "FieldName": "Address Issued",
-          "IsMultiValue": false,
-          "Type": "Address",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#42a0df"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "w"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.Nuoc.AccountNoIssued",
-          "FieldName": "Account No. Issued",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#9d9ccd"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "c"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.Nuoc.BankIssued",
-          "FieldName": "Bank Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#ad76c2"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "k"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.Nuoc.IDCustomer",
-          "FieldName": "ID Customer",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#e177ba"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "y"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
           "FieldId": "NoGroup.NoCategory.Nuoc.NameCustomer",
           "FieldName": "Name Customer",
           "IsMultiValue": false,
@@ -2383,26 +1683,6 @@
             {
               "Key": "Hotkey",
               "Value": "h"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.Nuoc.DeviceCode",
-          "FieldName": "Device Code",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#e057a7"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "v"
             }
           ],
           "RuleSet": null
@@ -2616,106 +1896,6 @@
             {
               "Key": "Hotkey",
               "Value": "a"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ThueDong.NameIssued",
-          "FieldName": "Name Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#c0c342"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "m"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ThueDong.TaxcodeIssued",
-          "FieldName": "Tax code Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#97b1dc"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "x"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ThueDong.AddressIssued",
-          "FieldName": "Address Issued",
-          "IsMultiValue": false,
-          "Type": "Address",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#da69b3"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "w"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ThueDong.AccountNoIssued",
-          "FieldName": "Account No Issued",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#f5387f"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "c"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ThueDong.BankIssued",
-          "FieldName": "Bank Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#9eb260"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "k"
             }
           ],
           "RuleSet": null
@@ -3009,86 +2189,6 @@
             {
               "Key": "Hotkey",
               "Value": "a"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ChietKhauSauThue.NameIssued",
-          "FieldName": "Name Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#275cd8"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "m"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ChietKhauSauThue.TaxcodeIssued",
-          "FieldName": "Tax code Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#c5aaaa"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "x"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ChietKhauSauThue.AddressIssued",
-          "FieldName": "Address Issued",
-          "IsMultiValue": false,
-          "Type": "Address",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#d37e9a"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "w"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ChietKhauSauThue.AccountIssued",
-          "FieldName": "Account Issued",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#2ea9d2"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "c"
             }
           ],
           "RuleSet": null
@@ -3402,106 +2502,6 @@
             {
               "Key": "Hotkey",
               "Value": "a"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ChietKhauTruocThue.NameIssued",
-          "FieldName": "Name Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#d1d760"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "m"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ChietKhauTruocThue.TaxcodeIssued",
-          "FieldName": "Tax code Issued",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#d9ba96"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "x"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ChietKhauTruocThue.AddressIssued",
-          "FieldName": "Address Issued",
-          "IsMultiValue": false,
-          "Type": "Address",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#dbb662"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "w"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ChietKhauTruocThue.AccountNoIssued",
-          "FieldName": "Account No. Issued",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#57d6db"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "c"
-            }
-          ],
-          "RuleSet": null
-        },
-        {
-          "FieldId": "NoGroup.NoCategory.ChietKhauTruocThue.IDcustomer",
-          "FieldName": "ID customer",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#cf62dc"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "y"
             }
           ],
           "RuleSet": null
